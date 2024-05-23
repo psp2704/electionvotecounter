@@ -1,6 +1,3 @@
-# React + Vite
-## README
-
 ### Election Summary App
 
 This React application allows users to vote for different political parties and see the total vote count as well as the percentage of votes each party has received from the total votes.
